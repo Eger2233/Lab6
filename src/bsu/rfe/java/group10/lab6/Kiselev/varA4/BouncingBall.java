@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.geom.Ellipse2D;
 public class BouncingBall implements Runnable {
-    // Максимальный радgiиус, который может иметь мяч
+    // Максимальный радgиус, который может иметь мяч
     private static final int MAX_RADIUS = 40;
     // Минимальный радиус, который может иметь мяч
     private static final int MIN_RADIUS = 3;
